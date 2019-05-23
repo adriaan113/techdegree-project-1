@@ -55,7 +55,7 @@ a:hover {
   transition: all .5s;
 }
 .nav a:hover {
-  color: #ff99ff;
+  color: #ff4971;
 }
 
 header {
@@ -73,11 +73,11 @@ header .profile-image {
   width: 150px;
   height: 150px;
   border-radius: 50%;
-  border: 3px dotted #ff99ff;
+  border: 3px dotted #ff4971;
   transition: all .5s;
 }
 header .profile-image:hover {
-  transform: scale(1.6) rotate(20deg);
+  transform: scale(1.3) rotate(360deg);
 }
 .tag {
   background-color: #efefef;
@@ -89,7 +89,7 @@ header .profile-image:hover {
 }
 .location {
   background-color: black;
-  color: #ff99ff;
+  color: #ff4971;
 }
 .card {
   margin: 30px;
@@ -103,7 +103,7 @@ header .profile-image:hover {
   transition: all .5s;
 }
 .card:hover {
-  border-color: #ff99ff;
+  border-color: #ff4971;
 }
 
 .card h2{
