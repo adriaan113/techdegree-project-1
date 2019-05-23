@@ -34,7 +34,7 @@ a:hover {
 .nav {
   display: flex;
   justify-content: space-around;
-  align-items: center;
+  align-items: center; /*aligned nav text to center*/
   font-weight: 700;
   list-style-type: none;
   margin: 0 auto;
@@ -55,7 +55,7 @@ a:hover {
   transition: all .5s;
 }
 .nav a:hover {
-  color: white;
+  color: #ff99ff;
 }
 
 header {
