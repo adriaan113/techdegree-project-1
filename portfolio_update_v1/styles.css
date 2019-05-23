@@ -58,9 +58,10 @@ a:hover {
 .nav a {
   transition: all .5s;
 }
-.nav a:hover {
+a:hover {
   color: #ff4971;
 }
+
 
 header {
   text-align: center;
@@ -211,6 +212,16 @@ padding: 0 20px;
 .gallery img{
   max-width: 100%;
   height: auto;
+}
+
+/************** CONTACT *************/
+
+.whatido{
+list-style: circle;
+}
+
+.important{
+  text-decoration: underline;
 }
 
 
