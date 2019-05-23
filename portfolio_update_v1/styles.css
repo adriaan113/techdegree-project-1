@@ -98,7 +98,7 @@ header .profile-image:hover {
   text-align: left;
   background: #ECFDF8;
   border-width:0 4px 7px 0;
-  border-color: #ccc;
+  border-color: #BEBAB1;
   border-style: solid;
   transition: all .5s;
 }
@@ -119,14 +119,14 @@ ul.skills {
 .skills li {
   border-radius: 6px;
   display: inline-block;
-  background: #ff9904;
+  background: #474542;
   color: white;
   padding: 5px 10px;
   margin: 2px;
 }
 
 .skills li:nth-child(odd) {
-  background: #0399ff;
+  background: #BEBAB1;
 }
 
 footer {
