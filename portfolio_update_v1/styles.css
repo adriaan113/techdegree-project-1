@@ -184,8 +184,11 @@ a.social:hover {
 /************** PORTFOLIO *************/
 
 .gallery-container{
-margin: auto 0;
-padding:0;
+margin: 30px;
+background: #ECFDF8;
+border-width:0 4px 7px 0;
+border-color: #BEBAB1;
+border-style: solid;
 }
 
 .gallery-container h2{
@@ -236,6 +239,10 @@ padding: 0 20px;
 
   main {
     padding-top: 20px;
+  }
+
+  .gallery-container{
+    padding-top: 0;
   }
 
   main p {
