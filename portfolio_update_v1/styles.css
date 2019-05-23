@@ -34,7 +34,7 @@ a:hover {
 .nav {
   display: flex;
   justify-content: space-around;
-  align-items: center; /*aligned nav text to center*/
+  align-items: center;
   font-weight: 700;
   list-style-type: none;
   margin: 0 auto;
@@ -73,7 +73,7 @@ header .profile-image {
   width: 150px;
   height: 150px;
   border-radius: 50%;
-  border: 3px dotted yellow;
+  border: 3px dotted #ff99ff;
   transition: all .5s;
 }
 header .profile-image:hover {
@@ -88,8 +88,8 @@ header .profile-image:hover {
   margin: 10px auto;
 }
 .location {
-  background-color: #222;
-  color: yellow;
+  background-color: black;
+  color: #ff99ff;
 }
 .card {
   margin: 30px;
@@ -109,11 +109,11 @@ header .profile-image:hover {
 .card h2{
   font-weight: 100;
   font-size: 2em;
-} /*added this to lighten up the titles*/
+}
 
 ul.skills {
   padding: 0;
-  text-align: center;
+  text-align:left;
 }
 
 .skills li {
